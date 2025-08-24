@@ -362,7 +362,7 @@
       display: flex;
       width: max-content;
       height: 30vh; 
-      margin: 15px;
+      margin: 1.62rem;
       gap: 2rem;
       box-sizing: border-box;
     }
