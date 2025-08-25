@@ -364,14 +364,12 @@
       height: 30vh; 
       margin: 2.6rem;
       gap: 2rem;
-      box-sizing: border-box;
     }
 
     .gallery-grid img {
     width: max-content;
     max-width: 100%;
     height: auto;
-    margin: 2,6rem;
     gap: 3.24rem;
     display: block;
     object-fit: cover;
