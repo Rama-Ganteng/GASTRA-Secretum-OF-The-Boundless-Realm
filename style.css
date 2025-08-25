@@ -368,8 +368,6 @@
     }
 
     .gallery-grid img {
-    width: max-content;
-    max-width: 100%;
     height: auto;
     display: block;
     object-fit: contain;
