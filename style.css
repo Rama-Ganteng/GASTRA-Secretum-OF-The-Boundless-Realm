@@ -362,7 +362,7 @@
       display: flex;
       width: max-content;
       height: 30vh; 
-      margin: 1.62rem;
+      margin: 2.6rem;
       gap: 2rem;
       box-sizing: border-box;
     }
@@ -371,6 +371,7 @@
     width: max-content;
     max-width: 100%;
     height: auto;
+    margin: 2,6rem;
     gap: 3.24rem;
     display: block;
     object-fit: cover;
@@ -387,6 +388,10 @@
     font-style: normal;
     font-size: 2rem;
     padding: 0.5rem;
+    }
+
+    .paket {
+      margin: 2.6rem;
     }
 
     .sponsorship-packages {
